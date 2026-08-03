@@ -1,7 +1,5 @@
 # Aplikasi-Inventory-Toko-Keva-Jaya
 
-# Aplikasi-Inventory-Toko-Keva-Jaya
-
 ## Deskripsi
 
 Aplikasi Inventory Toko Keva Jaya merupakan aplikasi berbasis web yang dikembangkan untuk membantu proses pengelolaan persediaan barang pada Toko Keva Jaya. Aplikasi ini menyediakan fitur pengelolaan data barang, supplier, barang masuk, barang keluar, koreksi stok, stock opname, serta laporan persediaan sehingga proses pencatatan stok menjadi lebih efektif, akurat, dan terstruktur.
